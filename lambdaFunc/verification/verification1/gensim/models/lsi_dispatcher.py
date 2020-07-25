@@ -6,7 +6,7 @@
 
 """:class:`~gensim.models.lsi_dispatcher.Dispatcher` process which orchestrates
 distributed :class:`~gensim.models.lsimodel.LsiModel` computations.
-Run this script only once, on the master node in your cluster.
+Run this script only once, on the main node in your cluster.
 
 Notes
 -----
