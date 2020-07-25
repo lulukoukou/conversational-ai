@@ -4,7 +4,7 @@
 # Copyright (C) 2010 Radim Rehurek <radimrehurek@seznam.cz>
 # Licensed under the GNU LGPL v2.1 - http://www.gnu.org/licenses/lgpl.html
 
-""":class:`~gensim.models.lsi_worker.Worker` ("slave") process used in computing
+""":class:`~gensim.models.lsi_worker.Worker` ("subordinate") process used in computing
 distributed :class:`~gensim.models.lsimodel.LsiModel`.
 
 Run this script on every node in your cluster. If you wish, you may even run it multiple times on a single machine,
